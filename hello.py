@@ -1,1 +1,3 @@
-print("alo alo")
+# hello.py
+def hello():
+    return "Hello, Jenkins!"
